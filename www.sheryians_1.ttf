@@ -1,0 +1,1458 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2025-10-18T15:19:20.292Z",
+        "id": "page_2",
+        "title": "https://www.sheryians.com/",
+        "pageTimings": {
+          "onContentLoad": 430.75100000714883,
+          "onLoad": 700.738999992609
+        }
+      }
+    ],
+    "entries": [
+      {
+        "_connectionId": "1965",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.woff2?t=1730118419915",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "t",
+              "value": "1730118419915"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "*"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"2a84c-ix8g6pFfFpjMLASRaLllefi3XCA\""
+            },
+            {
+              "name": "age",
+              "value": "1522381"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-jsd-version-type",
+              "value": "version"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "HIT, HIT"
+            },
+            {
+              "name": "date",
+              "value": "Sat, 18 Oct 2025 15:19:01 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "x-served-by",
+              "value": "cache-fra-eddf8230061-FRA, cache-ccu830035-CCU"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "strict-transport-security",
+              "value": "max-age=31536000; includeSubDomains; preload"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000, s-maxage=31536000, immutable"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "174156"
+            },
+            {
+              "name": "x-jsd-version",
+              "value": "4.5.0"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 174156,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "151.101.193.229",
+        "startedDateTime": "2025-10-18T15:19:20.530Z",
+        "time": 0.10299999848939478,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.08699999307282269,
+          "receive": 0.016000005416572094,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/Fontspring-DEMO-juana-black,Fontspring-DEMO-juana-blackit,Fontspring-DEMO-juana-bold/Fontspring-DEMO-juana-extralightit_toKzXEsfr.ttf?updatedAt=1713302125832",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1713302125832"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "30a4f3e9-fdc9-46fd-94fa-ca6c72751775"
+            },
+            {
+              "name": "etag",
+              "value": "\"1891a945f296de0db62365528d134c75\""
+            },
+            {
+              "name": "age",
+              "value": "3468836"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "CDTYiTMNNyyFx43W-5Y6_4ALvyWtQUsKq3TbU7sS_YVInpDYtXCR-Q=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:45:05 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Tue, 16 Apr 2024 21:15:25 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "34232"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 34232,
+            "mimeType": "font/ttf"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.08900000830180943,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.0740000104997307,
+          "receive": 0.014999997802078724,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/neueMachina/NeueMachina-Regular_DQCmjH1st.ttf?updatedAt=1713347905052",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1713347905052"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "3d4ea9ca-8e34-4171-a754-a069c4c2f00e"
+            },
+            {
+              "name": "etag",
+              "value": "\"5a625c66f03b340b660ea97646e2125d\""
+            },
+            {
+              "name": "age",
+              "value": "3468857"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "ER0O5lX0I94B19cRcYZ9O4shSYOWa-PjDWexGwUxtPpPR2_sT00qAQ=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:44:44 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 17 Apr 2024 09:58:24 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "79212"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 79212,
+            "mimeType": "font/ttf"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.0549999822396785,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.04499999340623617,
+          "receive": 0.00999998883344233,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/neueMachina/NeueMachina-Light_gwWCZxVuQl.ttf?updatedAt=1713347904991",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1713347904991"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "e2df30b6-f18d-42a2-b212-64fbf6b86a2d"
+            },
+            {
+              "name": "etag",
+              "value": "\"191c913e6ac20a831965a42501815df9\""
+            },
+            {
+              "name": "age",
+              "value": "3468939"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "WON1yBV2e1Tmg2ZbKl4Ct__rvUdX9UK8eQdciqsRD0ioMA1VfOT3jw=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:43:18 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 17 Apr 2024 09:58:24 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "79136"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 79136,
+            "mimeType": "font/ttf"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.04499999340623617,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.036999990697950125,
+          "receive": 0.008000002708286047,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/neueMachina/NeueMachina-Bold_WaMOsLX9Z9.ttf?updatedAt=1713347904936",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1713347904936"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "3756afb3-d9cb-4be3-b73f-3372810b8826"
+            },
+            {
+              "name": "etag",
+              "value": "\"082e3e780168b0a13827d0d338029437\""
+            },
+            {
+              "name": "age",
+              "value": "3469024"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "EKkIWc9rCrZIG-Gu-arCUJMBTAEphbTJUBsJlKrSfGrrjb3XMFkqJw=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:41:57 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 17 Apr 2024 09:58:24 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "78764"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 78764,
+            "mimeType": "font/ttf"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.04400001489557326,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.03600001218728721,
+          "receive": 0.008000002708286047,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/helvetica/HelveticaNowDisplay-Regular_5Mzhp8KlA8_CAVTbnsPOM.woff2?updatedAt=1714048137030",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1714048137030"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "c40de4b7-d8d3-488a-b577-24e3bfe66d26"
+            },
+            {
+              "name": "etag",
+              "value": "\"25db9b5a2a9a9269511c4380b5feab58\""
+            },
+            {
+              "name": "age",
+              "value": "3468815"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "3G3wPccG0g4iJAZyJF5pepzqnGIEC5c5DkBn1JNedj0gvuf1lb76hQ=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:45:26 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 25 Apr 2024 12:28:57 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "41600"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 41600,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.04900002386420965,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.040000013541430235,
+          "receive": 0.009000010322779417,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/helvetica/HelveticaNowDisplay-Light_M4nzWhve6k_k7HolyzL10.woff2?updatedAt=1714048137233",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1714048137233"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "9f7ea8c3-b814-465a-9995-7a5c53380373"
+            },
+            {
+              "name": "etag",
+              "value": "\"c9ab4d49b2e3480b12d9f487eda2ff9d\""
+            },
+            {
+              "name": "age",
+              "value": "3468854"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "atPYZPads-aJpeNL2fOHVAPuDFSeQqhPwFUlf1olC9i6osRTcaBGjw=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:44:47 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 25 Apr 2024 12:28:57 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "44372"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 44372,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.048999994760379195,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.04099999205209315,
+          "receive": 0.008000002708286047,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/helvetica/HelveticaNowDisplay-Medium_2wEhlmo-TD_wsqqEEwmJC.woff2?updatedAt=1714048136783",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1714048136783"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "92696336-c027-4710-8d93-02dda0d5ab88"
+            },
+            {
+              "name": "etag",
+              "value": "\"2fb6756690b3d00d340087e07c206cf4\""
+            },
+            {
+              "name": "age",
+              "value": "3468821"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "KSxpZjmLq6tQ5NkC2tQO4pvQ-pbKEdG2hkHYZcMda4m-SpnZBXfjYg=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:45:20 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 25 Apr 2024 12:28:56 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "44984"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 44984,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.040000013541430235,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.03200001083314419,
+          "receive": 0.008000002708286047,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/helvetica/HelveticaNowDisplay-Bold_VMHV5twUMR_2SBNfxj1ry.woff2?updatedAt=1714048134442",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1714048134442"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "b1044ebb-6843-40a0-a522-b6ee2e3c95e2"
+            },
+            {
+              "name": "etag",
+              "value": "\"21c62fe16926bf317958ff363e18401a\""
+            },
+            {
+              "name": "age",
+              "value": "3468934"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "IBaDsD0gTYIDpZxMvLutoyunbBLZPq7-RuwfoueTgdzkFiPSN0KcEA=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:43:27 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 25 Apr 2024 12:28:54 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "45316"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 45316,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.041000021155923605,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.03200001083314419,
+          "receive": 0.009000010322779417,
+          "_blocked_queueing": -1
+        }
+      },
+      {
+        "_connectionId": "1944",
+        "_fromCache": "memory",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://www.sheryians.com/css/common.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "GET",
+          "url": "https://ik.imagekit.io/sheryians/Fonts/helvetica/HelveticaNowDisplay-ExtraBold_Qqt_sGOvuc_Z0ZOJEQucI.woff2?updatedAt=1714048134441",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "updatedAt",
+              "value": "1714048134441"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-request-id",
+              "value": "6b67ca35-cd0e-4a27-af06-4ac35d96d79d"
+            },
+            {
+              "name": "etag",
+              "value": "\"652380fc11fa0d48a52dbb2e6c33b100\""
+            },
+            {
+              "name": "age",
+              "value": "3468753"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "GET"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "x-cache",
+              "value": "Hit from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "hDzTChf9fRrfLv22GYqeVfaIQDe_KkD5hyHhRs-LVXBOIzpROg9RIg=="
+            },
+            {
+              "name": "date",
+              "value": "Mon, 08 Sep 2025 11:46:28 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-server",
+              "value": "ImageKit.io"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 25 Apr 2024 12:28:54 GMT"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, s-maxage=31536000, max-age=31536000, must-revalidate"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "via",
+              "value": "1.1 e3ced74aa26c808e10b8610b17aab852.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-length",
+              "value": "45096"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "CCU50-P6"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 45096,
+            "mimeType": "font/woff2"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "13.35.20.126",
+        "startedDateTime": "2025-10-18T15:19:20.601Z",
+        "time": 0.04700000863522291,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.039000005926936865,
+          "receive": 0.008000002708286047,
+          "_blocked_queueing": -1
+        }
+      }
+    ]
+  }
+}
